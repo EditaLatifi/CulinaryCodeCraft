@@ -1,0 +1,6 @@
+org.makerminds.jcoaching.internship.restaurantpoint.gui.view.admin.RestaurantManagerView$Creator
+org.makerminds.jcoaching.internship.restaurantpoint.gui.view.admin.MenuManagerView$Creator
+org.makerminds.jcoaching.internship.restaurantpoint.gui.view.admin.MenuItemManagerView$Creator
+org.makerminds.jcoaching.internship.restaurantpoint.gui.view.admin.TableManagerView$Creator
+org.makerminds.jcoaching.internship.restaurantpoint.gui.view.waiter.OrderStatusManagerView$Creator
+org.makerminds.jcoaching.internship.restaurantpoint.gui.view.waiter.TableOrdersManagerView$Creator
